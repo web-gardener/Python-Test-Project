@@ -11,7 +11,7 @@ This Flask application serves as a simple bookstore, allowing users to add books
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
+   git clone https://github.com/web-gardener/flask-bookstore-app.git
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
